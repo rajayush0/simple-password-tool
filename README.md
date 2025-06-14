@@ -1,19 +1,54 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🔐 Random Password Generator
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A sleek, responsive web app that generates secure, random passwords with customizable length. Built using HTML, CSS, and JavaScript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🌟 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- ✅ Generate strong passwords instantly  
+- 🔢 Choose password length using a dropdown  
+- 🎨 Clean and modern UI (Karla font + green-accent theme)  
+- 🧠 Dual password suggestions every time you click "Generate"  
+- 💡 No frameworks — just vanilla JS
 
-Happy Coding!
+
+## 📦 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 🚀 Live Demo
+
+🌐 [View Project on Netlify](https://password-gen-js12.netlify.app/)  
+📁 [View Source Code](https://github.com/rajayush0/simple-password-tool)
+
+
+## 🛠️ How to Use
+
+1. Open the site in your browser  
+2. Select the desired password length from the dropdown  
+3. Click the `Generate` button  
+4. Two strong passwords will be displayed  
+5. Copy and use them safely!
+
+## 💡 Customization Ideas
+
+- Add copy-to-clipboard buttons ✂️  
+- Add toggle for including special characters  
+- Add password strength meter  
+- Dark mode toggle 🌙
+
+## 📚 Learning Purpose
+
+This project is perfect for beginners who want to:
+
+- Practice DOM manipulation  
+- Learn dropdown input handling  
+- Improve CSS layout and Flexbox skills  
+- Build something cool without external libraries
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you’d like to improve the UI, add features, or clean the code, feel free to fork and submit a PR.
+
+Made with ❤️ by [Ayush](https://github.com/rajayush0)
