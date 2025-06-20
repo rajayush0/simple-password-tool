@@ -51,4 +51,4 @@ This project is perfect for beginners who want to:
 
 Pull requests are welcome! If you’d like to improve the UI, add features, or clean the code, feel free to fork and submit a PR.
 
-Made with ❤️ by [Ayush Raj](https://github.com/rajayush0)
+Made with ❤️ by [Ayush ](https://github.com/rajayush0)
