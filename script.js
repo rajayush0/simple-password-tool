@@ -27,5 +27,26 @@ let randompass2El = document.getElementById("randompass2")
     }
     randompass2El.textContent=pass
     }
-    
+    randompass1El.addEventListener('click', function () {
+        const text = randompass1El.textContent;
+        navigator.clipboard.writeText(text)
+            .then(() => {
+                alert("Password Copied: ");
+            })
+            .catch(err => {
+                alert("Failed to copy text");
+                console.error(err);
+            });
+    });
+    randompass2El.addEventListener('click', function () {
+        const text = randompass2El.textContent;
+        navigator.clipboard.writeText(text)
+            .then(() => {
+                alert("Password Copied: ");
+            })
+            .catch(err => {
+                alert("Failed to copy text");
+                console.error(err);
+            });
+    });
     
